@@ -1,2 +1,2 @@
 # hello-world
-Testing the repository system in github
+Testing the repo system for a class project. CSIT 551 Mobile Computing.
